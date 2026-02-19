@@ -9,7 +9,7 @@ Premium Development • FiveM Systems • Web Solutions
 ## 🎮 FiveM Development
 
 ### 🔹 ESX Scripts
-
+- NONPC SCRIPT: https://github.com/MrRysonTv/Fivem_NoNpc_UEH.git
 ---
 
 ### 🔹 QBCore Scripts
