@@ -10,6 +10,7 @@ Premium Development • FiveM Systems • Web Solutions
 
 ### 🔹 ESX Scripts
 - NONPC SCRIPT: https://github.com/MrRysonTv/Fivem_NoNpc_UEH.git
+- ROLEPLAY BASE SYSTEM: https://github.com/MrRysonTv/UEH_RI_System-ESX-.git
 ---
 
 ### 🔹 QBCore Scripts
